@@ -12,6 +12,7 @@ if( document.getElementById("prod").value==""){
     document.getElementById("MontatnHT").innerHTML="";
     document.getElementById("TotTTC").innerHTML="";
 }
+console.log("saha rami")
 
 if(x<0 || isNaN(x) || x==""){
     console.log(typeof (x));

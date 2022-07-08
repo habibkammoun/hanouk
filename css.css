@@ -36,10 +36,3 @@ article{
     vertical-align: top;
 
 }
-section{
-    border-left: 1px solid grey;
-    padding: 5px;
-    width: 42%;
-    display: inline-block;
-    vertical-align: top;
-}
